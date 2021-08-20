@@ -1,0 +1,4 @@
+contoh tulis file text
+baris2
+baris3
+baris  4
